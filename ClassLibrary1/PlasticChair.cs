@@ -7,5 +7,9 @@ namespace ClassLibrary1
 {
     public class PlasticChair : AbstractChair
     {
+        public override void DisplayInfo()
+        {
+            Console.WriteLine("Пластиковый стул готов");
+        }
     }
 }

@@ -7,5 +7,9 @@ namespace ClassLibrary1
 {
     public class PlasticTable : AbstractTable
     {
+        public override void DisplayInfo()
+        {
+            Console.WriteLine("Пластиковый стол готов");
+        }
     }
 }

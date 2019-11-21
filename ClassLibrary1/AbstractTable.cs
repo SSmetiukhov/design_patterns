@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public class AbstractTable
+    public abstract class AbstractTable
     {
+        public abstract void DisplayInfo();
     }
 }
