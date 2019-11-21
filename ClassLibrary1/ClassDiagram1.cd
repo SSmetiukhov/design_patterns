@@ -64,8 +64,8 @@
       <Path>
         <Point X="5.25" Y="1.562" />
         <Point X="4.875" Y="1.562" />
-        <Point X="4.875" Y="6.291" />
-        <Point X="5.25" Y="6.291" />
+        <Point X="4.875" Y="6.312" />
+        <Point X="5.25" Y="6.312" />
       </Path>
     </InheritanceLine>
     <TypeIdentifier>

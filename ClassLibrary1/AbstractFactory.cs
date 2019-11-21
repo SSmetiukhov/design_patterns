@@ -6,21 +6,15 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public class AbstractFactory
+    public abstract class AbstractFactory
     {
-        public virtual AbstractTable CreateTable()
-        {
-            return new AbstractTable();
-        }
+        public abstract AbstractTable CreateTable();
 
-        public virtual AbstractChair CreateChair()
-        {
-            return new AbstractChair();
-        }
-        public virtual AbstractSofa CreateSofa()
-        {
-            return new AbstractSofa();
-        }
+
+        public abstract AbstractChair CreateChair();
+
+        public abstract AbstractSofa CreateSofa();
+        
 
     }
 }
