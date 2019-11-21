@@ -5,3 +5,13 @@ C:\Users\student.K05-09.000\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Conso
 C:\Users\student.K05-09.000\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
 C:\Users\student.K05-09.000\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\student.K05-09.000\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ConsoleApp2\bin\Debug\ClassLibrary1.dll
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ConsoleApp2\bin\Debug\ClassLibrary1.pdb
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete

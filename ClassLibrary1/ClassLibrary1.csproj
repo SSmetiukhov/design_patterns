@@ -43,6 +43,7 @@
     <Compile Include="AbstractChair.cs" />
     <Compile Include="AbstractFactory.cs" />
     <Compile Include="AbstractSofa.cs" />
+    <Compile Include="Client.cs" />
     <Compile Include="GlassChair.cs" />
     <Compile Include="GlassFurnitureFactory.cs" />
     <Compile Include="GlassSofa.cs" />

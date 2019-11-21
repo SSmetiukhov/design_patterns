@@ -1,0 +1,6 @@
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\student.K05-09.000\Smetuhov\design_patterns\design_patterns\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -7,5 +7,9 @@ namespace ClassLibrary1
 {
     public class WoodSofa : AbstractSofa
     {
+        public override void DisplayInfo()
+        {
+            Console.WriteLine("Деревянный диван готов");
+        }
     }
 }
